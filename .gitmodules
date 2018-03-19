@@ -1,0 +1,6 @@
+[submodule "frameworks/cocos2d-x"]
+	path = frameworks/cocos2d-x
+	url = git@github.com:vtjimbo/cocos2d-x.git
+[submodule "frameworks/cocos2d-html5"]
+	path = frameworks/cocos2d-html5
+	url = git@github.com:vtjimbo/cocos2d-html5.git
